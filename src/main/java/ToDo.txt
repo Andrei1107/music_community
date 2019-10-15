@@ -1,0 +1,7 @@
+
+
+1.Validare login cu db
+2.Setari  meniu spectator+trupa
+3.numar concerte checkbox
+4.Roluri + custom page
+

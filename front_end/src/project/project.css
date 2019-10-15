@@ -1,0 +1,415 @@
+
+#search_id {
+    width: 400px;
+
+}
+
+
+#searchBtn_id {
+    background-color: brown;
+}
+
+#register_id {
+    background-color: brown;
+}
+
+#connect_id {
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+#carousel_id {
+
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#id_carousel {
+    /*width:640px;*/
+    /*height:640px;*/
+
+
+}
+
+img {
+    width: 1000px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.modal-backdrop {
+    z-index: -1;
+}
+
+
+#btn_modal_trupa {
+    position: absolute;
+    left: 20px;
+}
+
+#modal_body {
+
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+
+#id_div_numeTrupa {
+
+
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 10%;
+
+}
+
+#id_div_nrmembrii {
+
+    display: inline-block;
+    width: 65px;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+}
+
+#id_div_email {
+
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 34%;
+
+
+}
+
+#id_div_nrconcerte {
+
+    display: inline-block;
+    width: 75px;
+    position: absolute;
+    left: 35%;
+    top: 44%;
+
+
+}
+
+#id_div_checkbox {
+
+    display: inline-block;
+    width: 75px;
+    position: absolute;
+    left: 64%;
+    top: 51%;
+    font-weight: bold;
+
+}
+
+#id_div_password {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 57%;
+    font-weight: bold;
+
+}
+
+#id_div_confirmare {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 67%;
+    font-weight: bold;
+
+}
+
+#id_div_register {
+    position: absolute;
+    left: 45%;
+    top: 79%;
+}
+
+#id_titlu_form {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 25px;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+    position: absolute;
+    left: 5%;
+
+}
+
+#numeTrupa_error {
+    width: 300px;
+    position: absolute;
+    left: 105%;
+    top: 45%;
+
+    font-weight: bold;
+}
+
+#nrMembrii_error {
+
+    position: absolute;
+
+    left: 128%;
+    top: 65%;
+    font-weight: bold;
+
+    width: 500px;
+
+
+}
+
+#email_error {
+    position: absolute;
+    left: 111%;
+    top: 55%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+
+#nrConcerte_error {
+    position: absolute;
+    left: 400%;
+    top: 55%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#parola_error {
+    position: absolute;
+    left: 105%;
+    top: 50%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#confParola_error {
+    position: absolute;
+    left: 105%;
+    top: 55%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#username_error {
+
+    width: 300px;
+    position: absolute;
+    left: 105%;
+    top: 45%;
+
+    font-weight: bold;
+
+}
+
+#numeSpectator_error {
+
+    position: absolute;
+
+    left: 105%;
+    top: 50%;
+    font-weight: bold;
+
+    width: 500px;
+
+}
+
+#prenumeSpectator_error {
+    position: absolute;
+    left: 105%;
+    top: 55%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#emailSpectator_error {
+    position: absolute;
+    left: 105%;
+    top: 55%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#parolaSpectator_error {
+    position: absolute;
+    left: 105%;
+    top: 59%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+}
+
+#confParolaSpectator_error {
+    position: absolute;
+    left: 105%;
+    top: 60%;
+    font-weight: bold;
+
+    width: 500px;
+    overflow: hidden;
+    white-space: nowrap;
+
+
+}
+
+
+#id_div_numeSpectator {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+
+}
+
+#id_div_prenumeSpectator {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 30%;
+
+}
+
+#id_div_emailSpectator {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 40%;
+
+}
+
+#id_div_parolaSpectator {
+
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 50%;
+
+}
+
+#id_div_confParolaSpectator {
+
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    top: 60%;
+
+
+}
+
+#id_div_usernameConnect {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 40%;
+    top: 25%;
+
+}
+
+#id_div_parolaConnect {
+    display: inline-block;
+    width: 300px;
+    position: absolute;
+    left: 40%;
+    top: 37%;
+
+}
+
+#id_div_connectare_button {
+
+    position: absolute;
+    left: 52%;
+    top: 50%;
+
+
+}
+
+
+#id_form_trupa{
+        position: absolute;
+    padding:38%;
+     left:300px;
+    top: -80px;
+
+
+
+}
+
+
+#id_form_spectator{
+
+    padding:35%;
+    position: absolute;
+    left:34%;
+    top:-70px;
+
+}
+
+#id_div_connect{
+
+    padding: 24%;
+    position: absolute;
+    top: 0%;
+    left: 20%;
+
+}
+
+
+
